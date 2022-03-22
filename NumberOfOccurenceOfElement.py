@@ -1,6 +1,5 @@
 def count(self,arr, n, x):
-		# code here
-		s = 0
+	s = 0
         e = n-1
         res1 = -1
         while s<=e :
